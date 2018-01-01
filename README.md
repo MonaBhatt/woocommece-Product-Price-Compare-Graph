@@ -1,1 +1,1 @@
-# woocommece-Product-Price-Compare-Graph
+# woocommerce-Product-Price-Compare-Graph
